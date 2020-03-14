@@ -1,0 +1,32 @@
+[
+  {
+    "macro": "text-data",
+    "name": "software_description",
+    "value": "Apache 2.4"
+  },
+  {
+    "macro": "text-data",
+    "name": "software_supported_platforms",
+    "value": "All"
+  },
+  {
+    "macro": "text-data",
+    "name": "software_requirements",
+    "value": "Linux/Windows"
+  },
+  {
+    "macro": "text-data",
+    "name": "software_license_info",
+    "value": "Apache"
+  },
+  {
+    "macro": "text-data",
+    "name": "software_support_contact",
+    "value": "foo@bar.com"
+  },
+  {
+    "macro": "text-data",
+    "name": "software_documentation_links",
+    "value": "no"
+  },
+]
